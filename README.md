@@ -1,4 +1,4 @@
-# 🏦 Annimati Financial Dashboard
+# 🏦 Financial Dashboard
 
 **Integrated Financial Analysis System with AI Assistant**
 
@@ -48,7 +48,7 @@ A comprehensive financial dashboard system that combines data extraction, visual
 ## 🏗️ Project Structure
 
 ```
-ANNIMATI/
+financial-ai-assistant-dashboard/
 ├── app.py                        # Main application entry point
 ├── setup.py                      # Installation script
 ├── requirements.txt              # Python dependencies
@@ -83,8 +83,8 @@ ANNIMATI/
 ### Step 1: Clone and Setup
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/annimati
-cd annimati
+git clone https://github.com/felipe0fc/financial-ai-assistant-dashboard.git
+cd financial-ai-assistant-dashboard
 
 # Create virtual environment (recommended)
 python -m venv venv

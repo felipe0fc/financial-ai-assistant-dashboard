@@ -1,5 +1,5 @@
 """
-Setup script for Annimati Financial Dashboard
+Setup script for financial-ai-assistant-dashboard Financial Dashboard
 """
 from setuptools import setup, find_packages
 
@@ -9,11 +9,10 @@ AUTHOR = 'Felipe Ferreira de Carvalho'
 EMAIL = "felipefcnano@gmail.com"
 SHORT_DESCRIPTION = "Integrated Financial Dashboard with AI Assistant for REXP and DIPD Analysis"
 LDESCRIPTION_CONTENT_TYPE = "text/markdown"
-MAIN_URL = "https://github.com/felipecarvalho/annimati"
+MAIN_URL = "https://github.com/felipe0fc/financial-ai-assistant-dashboard.git"
 PROJECT_URLS = {
-        "Bug Reports": "https://github.com/felipecarvalho/annimati/issues",
-        "Source": "https://github.com/felipecarvalho/annimati",
-        "Documentation": "https://github.com/felipecarvalho/annimati/wiki",
+        "Bug Reports": "https://github.com/felipe0fc/financial-ai-assistant-dashboard/issues",
+        "Source": "https://github.com/felipe0fc/financial-ai-assistant-dashboard",
     }
 CLASSIFIERS = [
         "Development Status :: 4 - Beta",
