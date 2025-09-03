@@ -298,12 +298,12 @@ python app.py --cli
 AI: Based on the financial data, here's the revenue analysis:
 
 **REXP Revenue Trend:**
-- Highly volatile with peaks reaching R$80M in Q1 2023
-- Recent decline to R$22M in Q4 2024
+- Highly volatile with peaks reaching Rn80M in Q1 2023
+- Recent decline to Rn22M in Q4 2024
 - Shows cyclical patterns with significant fluctuations
 
 **DIPD Revenue Trend:**
-- More stable performance, ranging R$5M - R$73M
+- More stable performance, ranging Rn5M - Rn73M
 - Consistent growth trajectory with fewer volatility spikes
 - Better predictability for forecasting
 

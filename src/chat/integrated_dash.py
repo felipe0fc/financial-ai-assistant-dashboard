@@ -90,7 +90,7 @@ class IntegratedFinancialDashboard:
         financial_cols = ['Revenue', 'Gross Profit', 'Operating Income', 'Net Income']
         for col in financial_cols:
             if col in context_df_formatted.columns:
-                context_df_formatted[col] = context_df_formatted[col].apply(lambda x: f"R${x:,.0f}")
+                context_df_formatted[col] = context_df_formatted[col].apply(lambda x: f"Rn{x:,.0f}")
         
         margin_cols = ['Gross Margin %', 'Operating Margin %', 'Net Margin %']
         for col in margin_cols:

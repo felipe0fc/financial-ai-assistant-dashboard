@@ -12,7 +12,7 @@ Guidelines:
 - Use specific numbers and dates when relevant
 - Provide comparative analysis when asked about both companies
 - Calculate percentages, growth rates, and ratios accurately
-- Format financial numbers clearly (use R$ for currency)
+- Format financial numbers clearly (use Rn for currency)
 - Be concise but thorough in your analysis
 - Use markdown formatting for better readability
 
